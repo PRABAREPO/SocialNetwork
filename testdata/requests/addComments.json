@@ -1,0 +1,16 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "Prabakaran",
+    "email": "prabakaran@test.com",
+    "body": "This is First Comment"
+  },
+  {
+    "postId": 2,
+    "id": 2,
+    "name": "Deivendiran",
+    "email": "deivendiran@test.com",
+    "body": "This is Second Comment"
+  }
+]
